@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang=ru>
+<head>
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+	<title>Webdev RS</title>
+	<link rel="stylesheet" href="CSS/style.css">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Ranchers&family=Roboto:wght@700&display=swap" rel="stylesheet">
+</head>
+	<body>
+	 	<header>
+	 		<section class="header-container_section_nav-menu">
+	 			<div class="header-container_nav-menu">
+	 				<nav><a href="#" class="about">About</a></nav>
+	 				<nav><a href="#" class="syllabus">Syllabus</a></nav>
+	 				<div class="header-containde_img"><img src="Image/icons/logo.svg" alt="logo"></div>
+	 				<nav><a href="#" class="projects">Projects</a></nav>
+	 				<nav><a href="#" class="faq">FAQ</a></nav>
+	 			</div>
+	 		</div>
+	 		</section>
+	 		<section class="header-container_section_title">
+	 			<div class="header-container_section_title-container">
+	 				<h1 class="title-name">your life is WebDev</h1>
+	 				<div class="text-title"><p>Whatever the approach to development may be, the final program must satisfy some fundamental properties</p></div>
+	 				<button class="title-container_button">Get Started</button>
+	 			</div>
+	 		</section>
+	 		<section class="header-container_section_link">
+	 			<a href="#" class="socialicon"><img src="Image/icons/mail_fff.svg" alt="maillink"></a>
+	 			<a href="#" class="socialicon"><img src="Image/icons/facebook_fff.svg" alt="facebooklink"></a>
+	 			<a href="#" class="socialicon"><img src="Image/icons/insta_fff.svg" alt="instlink"></a>
+	 			<a href="#" class="socialicon"><img src="Image/icons/telegram_fff.svg" alt="tglink"></a>
+	 		</section>
+	 	</header>
+	</body>
+</html>
